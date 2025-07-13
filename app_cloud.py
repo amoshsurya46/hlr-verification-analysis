@@ -205,21 +205,20 @@ with tab3:
 
 # Recent Records
 st.subheader("🕒 Recent Records")
-columns_to_show = ['operation', 'bss_msisdn']
-if 'bss_imsi' in df.columns:
-    columns_to_show.append('bss_imsi')
-columns_to_show.append('hlr_msisdn')
-if 'hlr_imsi' in df.columns:
-    columns_to_show.append('hlr_imsi')
+# Sort all data by file_name descending (latest files first)
 if 'file_name' in df.columns:
+    columns_to_show = ['operation', 'bss_msisdn']
+    if 'bss_imsi' in df.columns:
+        columns_to_show.append('bss_imsi')
+    columns_to_show.append('hlr_msisdn')
+    if 'hlr_imsi' in df.columns:
+        columns_to_show.append('hlr_imsi')
     columns_to_show.append('file_name')
-
-# Sort by file_name descending (latest files first)
-if 'file_name' in df.columns:
-    display_df = df.sort_values('file_name', ascending=False)[columns_to_show].head(20)
+    
+    recent_df = df.sort_values('file_name', ascending=False).head(50)[columns_to_show]
 else:
-    display_df = df[columns_to_show].head(20)
-st.dataframe(display_df, use_container_width=True)
+    recent_df = df.head(50)
+st.dataframe(recent_df, use_container_width=True)
 
 # Export functionality
 st.subheader("💾 Export Data")
