@@ -98,6 +98,17 @@ if df.empty:
     st.warning("⚠️ No data found for selected criteria")
     st.stop()
 
+# Check for recent data updates
+if 'file_name' in df.columns:
+    # Check if data was recently synced (files from today)
+    today_files = df[df['file_name'].str.contains('2025-07-13', na=False)]
+    if len(today_files) > 0:
+        unique_files = today_files['file_name'].unique()
+        st.success(f"🆕 {len(today_files)} records from {len(unique_files)} files synced from server!")
+        with st.expander("View synced files"):
+            for file in unique_files:
+                st.write(f"📄 {file}")
+
 # Key Metrics
 st.subheader("📈 Key Metrics")
 col1, col2, col3, col4 = st.columns(4)
