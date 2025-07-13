@@ -183,10 +183,16 @@ with tab3:
 
 # Recent Records
 st.subheader("🕒 Recent Records")
+columns_to_show = ['operation', 'bss_msisdn']
+if 'bss_imsi' in df.columns:
+    columns_to_show.append('bss_imsi')
+columns_to_show.append('hlr_msisdn')
+if 'hlr_imsi' in df.columns:
+    columns_to_show.append('hlr_imsi')
 if 'file_name' in df.columns:
-    display_df = df[['operation', 'bss_msisdn', 'hlr_msisdn', 'file_name']].head(20)
-else:
-    display_df = df[['operation', 'bss_msisdn', 'hlr_msisdn']].head(20)
+    columns_to_show.append('file_name')
+
+display_df = df[columns_to_show].head(20)
 st.dataframe(display_df, use_container_width=True)
 
 # Export functionality
