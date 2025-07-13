@@ -72,6 +72,15 @@ with st.sidebar:
         ["All", "SIMREG", "CHANGEMSISDN"]
     )
     
+    # File filter
+    st.subheader("📁 File Filter")
+    all_data = pd.DataFrame(data)
+    unique_files = sorted(all_data['file_name'].unique(), reverse=True) if 'file_name' in all_data.columns else []
+    file_filter = st.selectbox(
+        "Select File",
+        ["All"] + unique_files
+    )
+    
     # Refresh button
     if st.button("🔄 Refresh Data", type="primary"):
         st.rerun()
@@ -82,6 +91,8 @@ with st.sidebar:
 df = pd.DataFrame(data)
 if operation_filter != "All":
     df = df[df['operation'] == operation_filter]
+if file_filter != "All" and 'file_name' in df.columns:
+    df = df[df['file_name'] == file_filter]
 
 if df.empty:
     st.warning("⚠️ No data found for selected criteria")
@@ -214,4 +225,7 @@ with col1:
         )
 
 with col2:
-    st.info(f"📊 Showing {len(df):,} records | Filter: {operation_filter}")
+    filter_info = f"Operation: {operation_filter}"
+    if file_filter != "All":
+        filter_info += f" | File: {file_filter}"
+    st.info(f"📊 Showing {len(df):,} records | {filter_info}")

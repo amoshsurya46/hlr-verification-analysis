@@ -41,7 +41,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-def get_data(start_date=None, end_date=None, operation_filter=None):
+def get_data(start_date=None, end_date=None, operation_filter=None, file_filter=None):
     conn = mysql.connector.connect(
         host='mysql',
         user='hlruser',
@@ -61,6 +61,9 @@ def get_data(start_date=None, end_date=None, operation_filter=None):
     if operation_filter and operation_filter != 'All':
         query += " AND operation = %s"
         params.append(operation_filter)
+    if file_filter and file_filter != 'All':
+        query += " AND file_name = %s"
+        params.append(file_filter)
     
     query += " ORDER BY record_timestamp DESC"
     
@@ -103,12 +106,20 @@ with st.sidebar:
         ["All", "SIMREG", "CHANGEMSISDN"]
     )
     
+    # File filter
+    st.subheader("📁 File Filter")
+    unique_files = sorted(df['file_name'].unique(), reverse=True) if 'file_name' in df.columns else []
+    file_filter = st.selectbox(
+        "Select File",
+        ["All"] + unique_files
+    )
+    
     # Refresh button
     if st.button("🔄 Refresh Data", type="primary"):
         st.rerun()
 
 # Load data
-df = get_data(start_date, end_date, operation_filter)
+df = get_data(start_date, end_date, operation_filter, file_filter)
 
 if df.empty:
     st.warning("⚠️ No data found for selected criteria")
@@ -257,4 +268,10 @@ with col1:
         )
 
 with col2:
-    st.info(f"📊 Showing {len(df):,} records from {df['date'].min()} to {df['date'].max()}")
+    filter_info = f"Operation: {operation_filter}"
+    if file_filter != "All":
+        filter_info += f" | File: {file_filter}"
+    if 'date' in df.columns:
+        st.info(f"📊 Showing {len(df):,} records from {df['date'].min()} to {df['date'].max()} | {filter_info}")
+    else:
+        st.info(f"📊 Showing {len(df):,} records | {filter_info}")
