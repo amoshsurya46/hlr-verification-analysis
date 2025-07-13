@@ -1,0 +1,1 @@
+{"operation":"SIMREG","BSS":[{"msisdn_no":"60105211003","imsi_no":"502195538747786"}],"HLR":[{"msisdn_no":"HLR MSISDN NO DATA FOUND","imsi_no":"HLR IMSI NO DATA FOUND"}]}

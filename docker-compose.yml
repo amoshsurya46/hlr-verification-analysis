@@ -1,0 +1,41 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: hlr_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: HLRDB
+      MYSQL_USER: hlruser
+      MYSQL_PASSWORD: hlrpass
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - hlr_network
+
+  app:
+    build: .
+    container_name: hlr_app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - mysql
+    networks:
+      - hlr_network
+
+  scheduler:
+    build: .
+    container_name: hlr_scheduler
+    depends_on:
+      - mysql
+    networks:
+      - hlr_network
+    command: python scheduler.py
+
+volumes:
+  mysql_data:
+
+networks:
+  hlr_network:

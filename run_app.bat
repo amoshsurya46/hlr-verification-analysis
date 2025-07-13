@@ -1,0 +1,6 @@
+@echo off
+echo Installing Streamlit dependencies...
+pip install streamlit pandas plotly
+
+echo Starting Streamlit app...
+streamlit run app.py

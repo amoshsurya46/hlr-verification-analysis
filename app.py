@@ -1,26 +1,22 @@
 import streamlit as st
+import mysql.connector
 import pandas as pd
 import plotly.express as px
-import json
-import os
 
-# Load data from JSON file or use sample data
-try:
-    if os.path.exists('hlr_data.json'):
-        with open('hlr_data.json', 'r') as f:
-            data = json.load(f)
-    else:
-        # Fallback sample data
-        data = [
-            {"operation": "SIMREG", "bss_msisdn": "60105211003", "hlr_msisdn": "HLR MSISDN NO DATA FOUND"},
-            {"operation": "CHANGEMSISDN", "bss_msisdn": "60192335883", "hlr_msisdn": "60105055478"}
-        ]
-except:
-    data = [{"operation": "SIMREG", "bss_msisdn": "60105211003", "hlr_msisdn": "HLR MSISDN NO DATA FOUND"}]
+def get_data():
+    conn = mysql.connector.connect(
+        host='mysql',
+        user='hlruser',
+        password='hlrpass',
+        database='HLRDB'
+    )
+    df = pd.read_sql("SELECT * FROM hlr_verification", conn)
+    conn.close()
+    return df
 
 st.title("HLR Verification Analysis")
 
-df = pd.DataFrame(data)
+df = get_data()
 
 col1, col2, col3 = st.columns(3)
 with col1:
@@ -40,5 +36,8 @@ fig2 = px.bar(df.groupby(['operation', 'hlr_data_found']).size().reset_index(nam
               x='operation', y='count', color='hlr_data_found', title="HLR Data Availability")
 st.plotly_chart(fig2)
 
-st.subheader("Sample Records")
+st.subheader("Recent Records")
+st.dataframe(df.sort_values('record_timestamp', ascending=False).head(10))
+
+st.subheader("All Records")
 st.dataframe(df)

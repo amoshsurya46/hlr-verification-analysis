@@ -1,0 +1,2 @@
+{"operation":"CHANGEMSISDN","BSS":[{"msisdn_no":"60176364408","imsi_no":"502195595989648"}],"HLR":[{"msisdn_no":"601135250267","imsi_no":"502195595989648"}]}
+{"operation":"CHANGEMSISDN","BSS":[{"msisdn_no":"60167695799","imsi_no":"502195539041302"}],"HLR":[{"msisdn_no":"60105017784","imsi_no":"502195539041302"}]}
