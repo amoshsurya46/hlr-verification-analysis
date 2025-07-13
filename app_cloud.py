@@ -192,7 +192,11 @@ if 'hlr_imsi' in df.columns:
 if 'file_name' in df.columns:
     columns_to_show.append('file_name')
 
-display_df = df[columns_to_show].head(20)
+# Sort by file_name descending (latest files first)
+if 'file_name' in df.columns:
+    display_df = df.sort_values('file_name', ascending=False)[columns_to_show].head(20)
+else:
+    display_df = df[columns_to_show].head(20)
 st.dataframe(display_df, use_container_width=True)
 
 # Export functionality
