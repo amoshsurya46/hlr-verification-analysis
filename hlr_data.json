@@ -1,35 +1,35 @@
 [
   {
     "operation": "SIMREG",
-    "bss_msisdn": "601153748998",
-    "bss_imsi": "502195538036258",
+    "bss_msisdn": "601153760031",
+    "bss_imsi": "502195539265727",
     "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
     "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_08-00.txt"
+    "file_name": "hlrout_2025-07-01_00-45.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172103220",
-    "bss_imsi": "502195539016193",
-    "hlr_msisdn": "60105052995",
-    "hlr_imsi": "502195539016193",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
+    "operation": "SIMREG",
+    "bss_msisdn": "60108110411",
+    "bss_imsi": "502195538958063",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_03-15.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60174255562",
-    "bss_imsi": "502195539239028",
-    "hlr_msisdn": "60105022501",
-    "hlr_imsi": "502195539239028",
-    "file_name": "hlrout_2025-07-03_09-15.txt"
+    "operation": "SIMREG",
+    "bss_msisdn": "60107780179",
+    "bss_imsi": "502195538875423",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_05-45.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60104680957",
-    "bss_imsi": "502195539161650",
-    "hlr_msisdn": "60105033157",
-    "hlr_imsi": "502195539161650",
-    "file_name": "hlrout_2025-07-02_10-30.txt"
+    "operation": "SIMREG",
+    "bss_msisdn": "601153710298",
+    "bss_imsi": "502195538875418",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_06-00.txt"
   },
   {
     "operation": "SIMREG",
@@ -41,507 +41,27 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60147560105",
-    "bss_imsi": "502195538697494",
-    "hlr_msisdn": "601153716678",
-    "hlr_imsi": "502195538697494",
-    "file_name": "hlrout_2025-07-04_11-00.txt"
+    "bss_msisdn": "60126490393",
+    "bss_imsi": "502195539155980",
+    "hlr_msisdn": "60105048806",
+    "hlr_imsi": "502195539155980",
+    "file_name": "hlrout_2025-07-01_09-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172307460",
-    "bss_imsi": "502195539170258",
-    "hlr_msisdn": "60105013137",
-    "hlr_imsi": "502195539170258",
-    "file_name": "hlrout_2025-07-01_21-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60162212831",
-    "bss_imsi": "502195538438591",
-    "hlr_msisdn": "601153210015",
-    "hlr_imsi": "502195538438591",
-    "file_name": "hlrout_2025-07-01_12-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60178766046",
-    "bss_imsi": "502195596995551",
-    "hlr_msisdn": "601153990571",
-    "hlr_imsi": "502195596995551",
-    "file_name": "hlrout_2025-07-02_20-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60195674894",
-    "bss_imsi": "502195539310839",
-    "hlr_msisdn": "60105018437",
-    "hlr_imsi": "502195539310839",
-    "file_name": "hlrout_2025-07-01_21-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60107627126",
-    "bss_imsi": "502195539161676",
-    "hlr_msisdn": "60105026292",
-    "hlr_imsi": "502195539161676",
-    "file_name": "hlrout_2025-07-03_22-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172230612",
-    "bss_imsi": "502195539016195",
-    "hlr_msisdn": "60105052994",
-    "hlr_imsi": "502195539016195",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60105324547",
-    "bss_imsi": "502195539041543",
-    "hlr_msisdn": "60105036990",
-    "hlr_imsi": "502195539041543",
-    "file_name": "hlrout_2025-07-04_11-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173777064",
-    "bss_imsi": "502195539016192",
-    "hlr_msisdn": "60105052979",
-    "hlr_imsi": "502195539016192",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
+    "bss_msisdn": "60124671012",
+    "bss_imsi": "502195538587182",
+    "hlr_msisdn": "60107972290",
+    "hlr_imsi": "502195538587182",
+    "file_name": "hlrout_2025-07-01_09-00.txt"
   },
   {
     "operation": "SIMREG",
-    "bss_msisdn": "60108025722",
-    "bss_imsi": "502195538940875",
+    "bss_msisdn": "601153760857",
+    "bss_imsi": "502195539075049",
     "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
     "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_15-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601131710930",
-    "bss_imsi": "502195536424891",
-    "hlr_msisdn": "60105149509",
-    "hlr_imsi": "502195536424891",
-    "file_name": "hlrout_2025-07-02_12-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601126874280",
-    "bss_imsi": "502195538752883",
-    "hlr_msisdn": "60107704280",
-    "hlr_imsi": "502195538752883",
-    "file_name": "hlrout_2025-07-01_16-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601151384452",
-    "bss_imsi": "502195538701216",
-    "hlr_msisdn": "601115480158",
-    "hlr_imsi": "502195538701216",
-    "file_name": "hlrout_2025-07-02_20-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60177001207",
-    "bss_imsi": "502195538886829",
-    "hlr_msisdn": "60105053102",
-    "hlr_imsi": "502195538886829",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60146362410",
-    "bss_imsi": "502195538919474",
-    "hlr_msisdn": "60105049482",
-    "hlr_imsi": "502195538919474",
-    "file_name": "hlrout_2025-07-01_14-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601136010683",
-    "bss_imsi": "502195539240768",
-    "hlr_msisdn": "60105052145",
-    "hlr_imsi": "502195539240768",
-    "file_name": "hlrout_2025-07-02_17-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60104208242",
-    "bss_imsi": "502195539170327",
-    "hlr_msisdn": "60105016065",
-    "hlr_imsi": "502195539170327",
-    "file_name": "hlrout_2025-07-01_21-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601116459635",
-    "bss_imsi": "502195538886572",
-    "hlr_msisdn": "60105039028",
-    "hlr_imsi": "502195538886572",
-    "file_name": "hlrout_2025-07-04_11-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60164499021",
-    "bss_imsi": "502195538696561",
-    "hlr_msisdn": "60107739021",
-    "hlr_imsi": "502195538696561",
-    "file_name": "hlrout_2025-07-03_18-45.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601115190493",
-    "bss_imsi": "502195539105989",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_11-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60139891117",
-    "bss_imsi": "502195538665649",
-    "hlr_msisdn": "60108061577",
-    "hlr_imsi": "502195538665649",
-    "file_name": "hlrout_2025-07-03_15-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143228196",
-    "bss_imsi": "502195536696884",
-    "hlr_msisdn": "60107832959",
-    "hlr_imsi": "502195536696884",
-    "file_name": "hlrout_2025-07-01_16-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143859362",
-    "bss_imsi": "502195539161674",
-    "hlr_msisdn": "60105026206",
-    "hlr_imsi": "502195539161674",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "601155559625",
-    "bss_imsi": "502195539537692",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-04_10-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601126373738",
-    "bss_imsi": "502195538949904",
-    "hlr_msisdn": "60105034917",
-    "hlr_imsi": "502195538949904",
-    "file_name": "hlrout_2025-07-03_22-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60147265280",
-    "bss_imsi": "502195539173181",
-    "hlr_msisdn": "60105031096",
-    "hlr_imsi": "502195539173181",
-    "file_name": "hlrout_2025-07-02_11-45.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601135575308",
-    "bss_imsi": "502195539107554",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_21-00.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60107780179",
-    "bss_imsi": "502195538875423",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_05-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173481148",
-    "bss_imsi": "502195539136436",
-    "hlr_msisdn": "60105051599",
-    "hlr_imsi": "502195539136436",
-    "file_name": "hlrout_2025-07-02_17-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60102204893",
-    "bss_imsi": "502195596890077",
-    "hlr_msisdn": "601135884947",
-    "hlr_imsi": "502195596890077",
-    "file_name": "hlrout_2025-07-02_19-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60108940312",
-    "bss_imsi": "502195538437139",
-    "hlr_msisdn": "60105051256",
-    "hlr_imsi": "502195538437139",
-    "file_name": "hlrout_2025-07-02_16-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60107956344",
-    "bss_imsi": "502195538702077",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_20-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60147605778",
-    "bss_imsi": "502195539157350",
-    "hlr_msisdn": "60105016790",
-    "hlr_imsi": "502195539157350",
-    "file_name": "hlrout_2025-07-02_22-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60104595858",
-    "bss_imsi": "502195538665651",
-    "hlr_msisdn": "60105427470",
-    "hlr_imsi": "502195538665651",
-    "file_name": "hlrout_2025-07-03_15-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60178186636",
-    "bss_imsi": "502195539170230",
-    "hlr_msisdn": "60105010860",
-    "hlr_imsi": "502195539170230",
-    "file_name": "hlrout_2025-07-02_19-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601115406629",
-    "bss_imsi": "502195538998720",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_10-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60174266658",
-    "bss_imsi": "502195539239009",
-    "hlr_msisdn": "60105034938",
-    "hlr_imsi": "502195539239009",
-    "file_name": "hlrout_2025-07-03_11-00.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "60143467295",
-    "bss_imsi": "502195538505140",
-    "hlr_msisdn": "60105032653",
-    "hlr_imsi": "502195538505140",
-    "file_name": "hlrout_2025-07-01_17-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143883474",
-    "bss_imsi": "502195538431786",
-    "hlr_msisdn": "60105039465",
-    "hlr_imsi": "502195538431786",
-    "file_name": "hlrout_2025-07-03_14-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60102262051",
-    "bss_imsi": "502195538922525",
-    "hlr_msisdn": "60105052474",
-    "hlr_imsi": "502195538922525",
-    "file_name": "hlrout_2025-07-02_18-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601169548631",
-    "bss_imsi": "502195538991834",
-    "hlr_msisdn": "60105014382",
-    "hlr_imsi": "502195538991834",
-    "file_name": "hlrout_2025-07-01_21-00.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60105470481",
-    "bss_imsi": "502195538453170",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_12-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60162049256",
-    "bss_imsi": "502195539161673",
-    "hlr_msisdn": "60105025409",
-    "hlr_imsi": "502195539161673",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601115098698",
-    "bss_imsi": "502195538563118",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-04_03-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601164850391",
-    "bss_imsi": "502195536775204",
-    "hlr_msisdn": "601153650391",
-    "hlr_imsi": "502195536775204",
-    "file_name": "hlrout_2025-07-04_13-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143020189",
-    "bss_imsi": "502195539238302",
-    "hlr_msisdn": "60105052742",
-    "hlr_imsi": "502195539238302",
-    "file_name": "hlrout_2025-07-03_15-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60107986763",
-    "bss_imsi": "502195538544887",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_14-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601136055450",
-    "bss_imsi": "502195538720597",
-    "hlr_msisdn": "601153240491",
-    "hlr_imsi": "502195538720597",
     "file_name": "hlrout_2025-07-01_09-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60166329092",
-    "bss_imsi": "502195538655966",
-    "hlr_msisdn": "60105467071",
-    "hlr_imsi": "502195538655966",
-    "file_name": "hlrout_2025-07-01_11-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60177056658",
-    "bss_imsi": "502195539239008",
-    "hlr_msisdn": "60105034915",
-    "hlr_imsi": "502195539239008",
-    "file_name": "hlrout_2025-07-03_11-00.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60108168088",
-    "bss_imsi": "502195538755217",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-04_09-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60164486678",
-    "bss_imsi": "502195538695072",
-    "hlr_msisdn": "601135453771",
-    "hlr_imsi": "502195538695072",
-    "file_name": "hlrout_2025-07-01_11-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601126855881",
-    "bss_imsi": "502195539254842",
-    "hlr_msisdn": "60105015647",
-    "hlr_imsi": "502195539254842",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172311302",
-    "bss_imsi": "502195539170148",
-    "hlr_msisdn": "60105012139",
-    "hlr_imsi": "502195539170148",
-    "file_name": "hlrout_2025-07-03_20-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60169548635",
-    "bss_imsi": "502195539161669",
-    "hlr_msisdn": "60105025031",
-    "hlr_imsi": "502195539161669",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "601153632507",
-    "bss_imsi": "502195536508172",
-    "hlr_msisdn": "601115164504",
-    "hlr_imsi": "502195536508172",
-    "file_name": "hlrout_2025-07-13_20-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173389448",
-    "bss_imsi": "502195539239010",
-    "hlr_msisdn": "60105034957",
-    "hlr_imsi": "502195539239010",
-    "file_name": "hlrout_2025-07-03_11-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60167175797",
-    "bss_imsi": "502195538715063",
-    "hlr_msisdn": "601135349818",
-    "hlr_imsi": "502195538715063",
-    "file_name": "hlrout_2025-07-01_11-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60165284323",
-    "bss_imsi": "502195538207391",
-    "hlr_msisdn": "60105049516",
-    "hlr_imsi": "502195538207391",
-    "file_name": "hlrout_2025-07-01_15-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143295681",
-    "bss_imsi": "502195538753706",
-    "hlr_msisdn": "60108075681",
-    "hlr_imsi": "502195538753706",
-    "file_name": "hlrout_2025-07-02_13-30.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153386006",
-    "bss_imsi": "502195539082903",
-    "hlr_msisdn": "601153667979",
-    "hlr_imsi": "502195539082903",
-    "file_name": "hlrout_2025-07-01_17-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172436329",
-    "bss_imsi": "502195539170275",
-    "hlr_msisdn": "60105015673",
-    "hlr_imsi": "502195539170275",
-    "file_name": "hlrout_2025-07-01_21-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60168686781",
-    "bss_imsi": "502195539161797",
-    "hlr_msisdn": "60105023268",
-    "hlr_imsi": "502195539161797",
-    "file_name": "hlrout_2025-07-02_08-45.txt"
   },
   {
     "operation": "SIMREG",
@@ -553,59 +73,43 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601111331568",
-    "bss_imsi": "502195538992481",
-    "hlr_msisdn": "60105043754",
-    "hlr_imsi": "502195538992481",
-    "file_name": "hlrout_2025-07-02_13-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172724773",
-    "bss_imsi": "502195539170272",
-    "hlr_msisdn": "60105013592",
-    "hlr_imsi": "502195539170272",
-    "file_name": "hlrout_2025-07-01_21-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143805137",
-    "bss_imsi": "502195539161795",
-    "hlr_msisdn": "60105022871",
-    "hlr_imsi": "502195539161795",
-    "file_name": "hlrout_2025-07-02_08-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60122901083",
-    "bss_imsi": "502195538439281",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_21-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60165756765",
-    "bss_imsi": "502195537465300",
-    "hlr_msisdn": "60105039279",
-    "hlr_imsi": "502195537465300",
-    "file_name": "hlrout_2025-07-04_12-45.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153760857",
-    "bss_imsi": "502195539075049",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "bss_msisdn": "601136055450",
+    "bss_imsi": "502195538720597",
+    "hlr_msisdn": "601153240491",
+    "hlr_imsi": "502195538720597",
     "file_name": "hlrout_2025-07-01_09-30.txt"
   },
   {
+    "operation": "SIMREG",
+    "bss_msisdn": "60105015673",
+    "bss_imsi": "502195539170275",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_10-15.txt"
+  },
+  {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60176207643",
-    "bss_imsi": "502195539136438",
-    "hlr_msisdn": "60105051467",
-    "hlr_imsi": "502195539136438",
-    "file_name": "hlrout_2025-07-02_17-00.txt"
+    "bss_msisdn": "60167175797",
+    "bss_imsi": "502195538715063",
+    "hlr_msisdn": "601135349818",
+    "hlr_imsi": "502195538715063",
+    "file_name": "hlrout_2025-07-01_11-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60166329092",
+    "bss_imsi": "502195538655966",
+    "hlr_msisdn": "60105467071",
+    "hlr_imsi": "502195538655966",
+    "file_name": "hlrout_2025-07-01_11-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60164486678",
+    "bss_imsi": "502195538695072",
+    "hlr_msisdn": "601135453771",
+    "hlr_imsi": "502195538695072",
+    "file_name": "hlrout_2025-07-01_11-45.txt"
   },
   {
     "operation": "SIMREG",
@@ -617,115 +121,43 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60146560401",
-    "bss_imsi": "502195538919791",
-    "hlr_msisdn": "60105052546",
-    "hlr_imsi": "502195538919791",
-    "file_name": "hlrout_2025-07-02_18-00.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60107918302",
-    "bss_imsi": "502195538913317",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_12-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153396370",
-    "bss_imsi": "502195561110712",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_17-00.txt"
+    "bss_msisdn": "60172716626",
+    "bss_imsi": "502195538515388",
+    "hlr_msisdn": "60105023206",
+    "hlr_imsi": "502195538515388",
+    "file_name": "hlrout_2025-07-01_12-15.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601159063800",
-    "bss_imsi": "502195539030889",
-    "hlr_msisdn": "60105037903",
-    "hlr_imsi": "502195539030889",
-    "file_name": "hlrout_2025-07-03_11-00.txt"
+    "bss_msisdn": "60162212831",
+    "bss_imsi": "502195538438591",
+    "hlr_msisdn": "601153210015",
+    "hlr_imsi": "502195538438591",
+    "file_name": "hlrout_2025-07-01_12-15.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601136603066",
-    "bss_imsi": "502195539239775",
-    "hlr_msisdn": "60105052281",
-    "hlr_imsi": "502195539239775",
-    "file_name": "hlrout_2025-07-02_17-30.txt"
+    "bss_msisdn": "60102490062",
+    "bss_imsi": "502195539038213",
+    "hlr_msisdn": "60105049258",
+    "hlr_imsi": "502195539038213",
+    "file_name": "hlrout_2025-07-01_12-15.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60176767683",
-    "bss_imsi": "502195538867344",
-    "hlr_msisdn": "60105014180",
-    "hlr_imsi": "502195538867344",
-    "file_name": "hlrout_2025-07-02_20-30.txt"
+    "bss_msisdn": "60176866463",
+    "bss_imsi": "502195538515410",
+    "hlr_msisdn": "60105021774",
+    "hlr_imsi": "502195538515410",
+    "file_name": "hlrout_2025-07-01_13-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60165875845",
-    "bss_imsi": "502195538660480",
-    "hlr_msisdn": "60105035465",
-    "hlr_imsi": "502195538660480",
-    "file_name": "hlrout_2025-07-03_10-30.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60105040895",
-    "bss_imsi": "502195538126339",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_10-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153210351",
-    "bss_imsi": "502195538597589",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_14-30.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153032882",
-    "bss_imsi": "502195538434561",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_20-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60165875841",
-    "bss_imsi": "502195538161546",
-    "hlr_msisdn": "60105034864",
-    "hlr_imsi": "502195538161546",
-    "file_name": "hlrout_2025-07-03_09-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60109039673",
-    "bss_imsi": "502195539037623",
-    "hlr_msisdn": "60105049629",
-    "hlr_imsi": "502195539037623",
-    "file_name": "hlrout_2025-07-01_16-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60168652443",
-    "bss_imsi": "502195539161765",
-    "hlr_msisdn": "60105023455",
-    "hlr_imsi": "502195539161765",
-    "file_name": "hlrout_2025-07-02_08-45.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153960554",
-    "bss_imsi": "502195539145978",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_10-30.txt"
+    "bss_msisdn": "60174585144",
+    "bss_imsi": "502195538515385",
+    "hlr_msisdn": "60105021797",
+    "hlr_imsi": "502195538515385",
+    "file_name": "hlrout_2025-07-01_13-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -737,299 +169,11 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601161795504",
-    "bss_imsi": "502195538992440",
-    "hlr_msisdn": "60105046264",
-    "hlr_imsi": "502195538992440",
-    "file_name": "hlrout_2025-07-02_13-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172716626",
-    "bss_imsi": "502195538515388",
-    "hlr_msisdn": "60105023206",
-    "hlr_imsi": "502195538515388",
-    "file_name": "hlrout_2025-07-01_12-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172700778",
-    "bss_imsi": "502195538868717",
-    "hlr_msisdn": "60105053076",
-    "hlr_imsi": "502195538868717",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60142002086",
-    "bss_imsi": "502195538868725",
-    "hlr_msisdn": "60105053128",
-    "hlr_imsi": "502195538868725",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60109747239",
-    "bss_imsi": "502195539161672",
-    "hlr_msisdn": "60105025390",
-    "hlr_imsi": "502195539161672",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153552005",
-    "bss_imsi": "502195538720937",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-04_01-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60146377038",
-    "bss_imsi": "502195539136678",
-    "hlr_msisdn": "60105015727",
-    "hlr_imsi": "502195539136678",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601118939640",
-    "bss_imsi": "502195538181037",
-    "hlr_msisdn": "60107709640",
-    "hlr_imsi": "502195538181037",
-    "file_name": "hlrout_2025-07-03_20-00.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "60108074947",
-    "bss_imsi": "502195539517177",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-04_12-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173181872",
-    "bss_imsi": "502195538197688",
-    "hlr_msisdn": "60105038967",
-    "hlr_imsi": "502195538197688",
-    "file_name": "hlrout_2025-07-03_12-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60175787627",
-    "bss_imsi": "502195538546867",
-    "hlr_msisdn": "601115076790",
-    "hlr_imsi": "502195538546867",
-    "file_name": "hlrout_2025-07-04_09-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60106684172",
-    "bss_imsi": "502195537977571",
-    "hlr_msisdn": "60105052747",
-    "hlr_imsi": "502195537977571",
-    "file_name": "hlrout_2025-07-03_15-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60109019841",
-    "bss_imsi": "502195539171466",
-    "hlr_msisdn": "60105024636",
-    "hlr_imsi": "502195539171466",
-    "file_name": "hlrout_2025-07-04_08-45.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "60145874698",
-    "bss_imsi": "502195596968975",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_16-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60146457236",
-    "bss_imsi": "502195539161648",
-    "hlr_msisdn": "60105026316",
-    "hlr_imsi": "502195539161648",
-    "file_name": "hlrout_2025-07-03_22-00.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153750257",
-    "bss_imsi": "502195538936806",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_15-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173222695",
-    "bss_imsi": "502195539170234",
-    "hlr_msisdn": "60105053039",
-    "hlr_imsi": "502195539170234",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601133088766",
-    "bss_imsi": "502195538922513",
-    "hlr_msisdn": "60105052316",
-    "hlr_imsi": "502195538922513",
-    "file_name": "hlrout_2025-07-04_11-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153760031",
-    "bss_imsi": "502195539265727",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_00-45.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "60143020189",
-    "bss_imsi": "502195539238295",
-    "hlr_msisdn": "60105052742",
-    "hlr_imsi": "502195539238295",
-    "file_name": "hlrout_2025-07-03_17-45.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60164057298",
-    "bss_imsi": "502195539104385",
-    "hlr_msisdn": "60105015852",
-    "hlr_imsi": "502195539104385",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173532224",
-    "bss_imsi": "502195539170233",
-    "hlr_msisdn": "60105053024",
-    "hlr_imsi": "502195539170233",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60175220032",
-    "bss_imsi": "502195539170149",
-    "hlr_msisdn": "60105012314",
-    "hlr_imsi": "502195539170149",
-    "file_name": "hlrout_2025-07-03_20-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60168095642",
-    "bss_imsi": "502195539105019",
-    "hlr_msisdn": "60105051315",
-    "hlr_imsi": "502195539105019",
-    "file_name": "hlrout_2025-07-03_12-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601136261046",
-    "bss_imsi": "502195538544128",
-    "hlr_msisdn": "601135531046",
-    "hlr_imsi": "502195538544128",
-    "file_name": "hlrout_2025-07-03_20-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60105124074",
-    "bss_imsi": "502195539253797",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_22-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60174000173",
-    "bss_imsi": "502195538886830",
-    "hlr_msisdn": "60105053095",
-    "hlr_imsi": "502195538886830",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60164265858",
-    "bss_imsi": "502195539118059",
-    "hlr_msisdn": "60105018521",
-    "hlr_imsi": "502195539118059",
-    "file_name": "hlrout_2025-07-03_22-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172896497",
-    "bss_imsi": "502195539170274",
-    "hlr_msisdn": "60105014816",
-    "hlr_imsi": "502195539170274",
-    "file_name": "hlrout_2025-07-01_21-00.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "60123998747",
-    "bss_imsi": "502195539047107",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_22-45.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601115490916",
-    "bss_imsi": "502195539259154",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_16-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60107634236",
-    "bss_imsi": "502195539161671",
-    "hlr_msisdn": "60105025387",
-    "hlr_imsi": "502195539161671",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60124663387",
-    "bss_imsi": "502195539082756",
-    "hlr_msisdn": "60105016747",
-    "hlr_imsi": "502195539082756",
-    "file_name": "hlrout_2025-07-03_22-15.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60108001856",
-    "bss_imsi": "502195537714386",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-03_20-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143308793",
-    "bss_imsi": "502195537517031",
-    "hlr_msisdn": "60108048793",
-    "hlr_imsi": "502195537517031",
-    "file_name": "hlrout_2025-07-01_18-15.txt"
-  },
-  {
-    "operation": "SIMSWAP",
-    "bss_msisdn": "601115491418",
-    "bss_imsi": "502195539533864",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_10-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60142327684",
-    "bss_imsi": "502195539170325",
-    "hlr_msisdn": "60105016013",
-    "hlr_imsi": "502195539170325",
-    "file_name": "hlrout_2025-07-01_21-45.txt"
+    "bss_msisdn": "601151296077",
+    "bss_imsi": "502195536696889",
+    "hlr_msisdn": "60105252731",
+    "hlr_imsi": "502195536696889",
+    "file_name": "hlrout_2025-07-01_13-30.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1041,11 +185,43 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143667549",
-    "bss_imsi": "502195538867361",
-    "hlr_msisdn": "60105019828",
-    "hlr_imsi": "502195538867361",
-    "file_name": "hlrout_2025-07-01_21-45.txt"
+    "bss_msisdn": "60146362410",
+    "bss_imsi": "502195538919474",
+    "hlr_msisdn": "60105049482",
+    "hlr_imsi": "502195538919474",
+    "file_name": "hlrout_2025-07-01_14-45.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601135210747",
+    "bss_imsi": "502195539001383",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_15-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60165284323",
+    "bss_imsi": "502195538207391",
+    "hlr_msisdn": "60105049516",
+    "hlr_imsi": "502195538207391",
+    "file_name": "hlrout_2025-07-01_15-15.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601115490916",
+    "bss_imsi": "502195539259154",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_16-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60143228196",
+    "bss_imsi": "502195536696884",
+    "hlr_msisdn": "60107832959",
+    "hlr_imsi": "502195536696884",
+    "file_name": "hlrout_2025-07-01_16-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1057,27 +233,51 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60168696056",
-    "bss_imsi": "502195539161796",
-    "hlr_msisdn": "60105023032",
-    "hlr_imsi": "502195539161796",
-    "file_name": "hlrout_2025-07-02_08-45.txt"
+    "bss_msisdn": "601126874280",
+    "bss_imsi": "502195538752883",
+    "hlr_msisdn": "60107704280",
+    "hlr_imsi": "502195538752883",
+    "file_name": "hlrout_2025-07-01_16-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60142646876",
-    "bss_imsi": "502195539170286",
-    "hlr_msisdn": "60105016403",
-    "hlr_imsi": "502195539170286",
-    "file_name": "hlrout_2025-07-01_21-45.txt"
+    "bss_msisdn": "60109039673",
+    "bss_imsi": "502195539037623",
+    "hlr_msisdn": "60105049629",
+    "hlr_imsi": "502195539037623",
+    "file_name": "hlrout_2025-07-01_16-45.txt"
+  },
+  {
+    "operation": "SIMSWAP",
+    "bss_msisdn": "60143467295",
+    "bss_imsi": "502195538505140",
+    "hlr_msisdn": "60105032653",
+    "hlr_imsi": "502195538505140",
+    "file_name": "hlrout_2025-07-01_17-30.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153386006",
+    "bss_imsi": "502195539082903",
+    "hlr_msisdn": "601153667979",
+    "hlr_imsi": "502195539082903",
+    "file_name": "hlrout_2025-07-01_17-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60166485284",
-    "bss_imsi": "502195538725553",
-    "hlr_msisdn": "60105251625",
-    "hlr_imsi": "502195538725553",
-    "file_name": "hlrout_2025-07-02_10-00.txt"
+    "bss_msisdn": "60143308793",
+    "bss_imsi": "502195537517031",
+    "hlr_msisdn": "60108048793",
+    "hlr_imsi": "502195537517031",
+    "file_name": "hlrout_2025-07-01_18-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601159014513",
+    "bss_imsi": "502195538921948",
+    "hlr_msisdn": "60105049706",
+    "hlr_imsi": "502195538921948",
+    "file_name": "hlrout_2025-07-01_18-15.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1088,28 +288,28 @@
     "file_name": "hlrout_2025-07-01_18-15.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60108227703",
-    "bss_imsi": "502195539161667",
-    "hlr_msisdn": "60105024093",
-    "hlr_imsi": "502195539161667",
-    "file_name": "hlrout_2025-07-02_09-15.txt"
+    "operation": "SIMREG",
+    "bss_msisdn": "60107956344",
+    "bss_imsi": "502195538702077",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_20-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60176098310",
-    "bss_imsi": "502195539173182",
-    "hlr_msisdn": "60105030989",
-    "hlr_imsi": "502195539173182",
-    "file_name": "hlrout_2025-07-02_11-45.txt"
+    "bss_msisdn": "601169548631",
+    "bss_imsi": "502195538991834",
+    "hlr_msisdn": "60105014382",
+    "hlr_imsi": "502195538991834",
+    "file_name": "hlrout_2025-07-01_21-00.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60199895340",
-    "bss_imsi": "502195539177360",
-    "hlr_msisdn": "60105022820",
-    "hlr_imsi": "502195539177360",
-    "file_name": "hlrout_2025-07-02_08-45.txt"
+    "operation": "SIMREG",
+    "bss_msisdn": "601135575308",
+    "bss_imsi": "502195539107554",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-01_21-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1117,6 +317,46 @@
     "bss_imsi": "502195539170323",
     "hlr_msisdn": "60105015876",
     "hlr_imsi": "502195539170323",
+    "file_name": "hlrout_2025-07-01_21-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172896497",
+    "bss_imsi": "502195539170274",
+    "hlr_msisdn": "60105014816",
+    "hlr_imsi": "502195539170274",
+    "file_name": "hlrout_2025-07-01_21-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172307460",
+    "bss_imsi": "502195539170258",
+    "hlr_msisdn": "60105013137",
+    "hlr_imsi": "502195539170258",
+    "file_name": "hlrout_2025-07-01_21-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172724773",
+    "bss_imsi": "502195539170272",
+    "hlr_msisdn": "60105013592",
+    "hlr_imsi": "502195539170272",
+    "file_name": "hlrout_2025-07-01_21-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172436329",
+    "bss_imsi": "502195539170275",
+    "hlr_msisdn": "60105015673",
+    "hlr_imsi": "502195539170275",
+    "file_name": "hlrout_2025-07-01_21-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60195674894",
+    "bss_imsi": "502195539310839",
+    "hlr_msisdn": "60105018437",
+    "hlr_imsi": "502195539310839",
     "file_name": "hlrout_2025-07-01_21-00.txt"
   },
   {
@@ -1137,6 +377,22 @@
   },
   {
     "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60142327684",
+    "bss_imsi": "502195539170325",
+    "hlr_msisdn": "60105016013",
+    "hlr_imsi": "502195539170325",
+    "file_name": "hlrout_2025-07-01_21-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60104208242",
+    "bss_imsi": "502195539170327",
+    "hlr_msisdn": "60105016065",
+    "hlr_imsi": "502195539170327",
+    "file_name": "hlrout_2025-07-01_21-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
     "bss_msisdn": "60142630703",
     "bss_imsi": "502195539170326",
     "hlr_msisdn": "60105016180",
@@ -1145,11 +401,19 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601133331908",
-    "bss_imsi": "502195536496063",
-    "hlr_msisdn": "60108153741",
-    "hlr_imsi": "502195536496063",
-    "file_name": "hlrout_2025-07-02_18-00.txt"
+    "bss_msisdn": "60142646876",
+    "bss_imsi": "502195539170286",
+    "hlr_msisdn": "60105016403",
+    "hlr_imsi": "502195539170286",
+    "file_name": "hlrout_2025-07-01_21-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60143667549",
+    "bss_imsi": "502195538867361",
+    "hlr_msisdn": "60105019828",
+    "hlr_imsi": "502195538867361",
+    "file_name": "hlrout_2025-07-01_21-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1169,91 +433,195 @@
   },
   {
     "operation": "SIMREG",
-    "bss_msisdn": "601135735292",
-    "bss_imsi": "502195538998121",
+    "bss_msisdn": "601153748998",
+    "bss_imsi": "502195538036258",
     "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
     "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_14-30.txt"
+    "file_name": "hlrout_2025-07-02_08-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173553254",
-    "bss_imsi": "502195539136437",
-    "hlr_msisdn": "60105051487",
-    "hlr_imsi": "502195539136437",
-    "file_name": "hlrout_2025-07-02_17-00.txt"
+    "bss_msisdn": "60199895340",
+    "bss_imsi": "502195539177360",
+    "hlr_msisdn": "60105022820",
+    "hlr_imsi": "502195539177360",
+    "file_name": "hlrout_2025-07-02_08-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60174585144",
-    "bss_imsi": "502195538515385",
-    "hlr_msisdn": "60105021797",
-    "hlr_imsi": "502195538515385",
-    "file_name": "hlrout_2025-07-01_13-00.txt"
+    "bss_msisdn": "60143805137",
+    "bss_imsi": "502195539161795",
+    "hlr_msisdn": "60105022871",
+    "hlr_imsi": "502195539161795",
+    "file_name": "hlrout_2025-07-02_08-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60176866463",
-    "bss_imsi": "502195538515410",
-    "hlr_msisdn": "60105021774",
-    "hlr_imsi": "502195538515410",
-    "file_name": "hlrout_2025-07-01_13-00.txt"
+    "bss_msisdn": "60168696056",
+    "bss_imsi": "502195539161796",
+    "hlr_msisdn": "60105023032",
+    "hlr_imsi": "502195539161796",
+    "file_name": "hlrout_2025-07-02_08-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601151296077",
-    "bss_imsi": "502195536696889",
-    "hlr_msisdn": "60105252731",
-    "hlr_imsi": "502195536696889",
-    "file_name": "hlrout_2025-07-01_13-30.txt"
+    "bss_msisdn": "60168686781",
+    "bss_imsi": "502195539161797",
+    "hlr_msisdn": "60105023268",
+    "hlr_imsi": "502195539161797",
+    "file_name": "hlrout_2025-07-02_08-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143735397",
-    "bss_imsi": "502195538730231",
-    "hlr_msisdn": "601115016297",
-    "hlr_imsi": "502195538730231",
-    "file_name": "hlrout_2025-07-02_18-00.txt"
+    "bss_msisdn": "60168652443",
+    "bss_imsi": "502195539161765",
+    "hlr_msisdn": "60105023455",
+    "hlr_imsi": "502195539161765",
+    "file_name": "hlrout_2025-07-02_08-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60104605137",
+    "bss_imsi": "502195539161748",
+    "hlr_msisdn": "60105022550",
+    "hlr_imsi": "502195539161748",
+    "file_name": "hlrout_2025-07-02_08-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60108227703",
+    "bss_imsi": "502195539161667",
+    "hlr_msisdn": "60105024093",
+    "hlr_imsi": "502195539161667",
+    "file_name": "hlrout_2025-07-02_09-15.txt"
   },
   {
     "operation": "SIMREG",
-    "bss_msisdn": "601135210747",
-    "bss_imsi": "502195539001383",
+    "bss_msisdn": "601115406629",
+    "bss_imsi": "502195538998720",
     "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
     "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_15-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60102490062",
-    "bss_imsi": "502195539038213",
-    "hlr_msisdn": "60105049258",
-    "hlr_imsi": "502195539038213",
-    "file_name": "hlrout_2025-07-01_12-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60166710305",
-    "bss_imsi": "502195596991228",
-    "hlr_msisdn": "601153986186",
-    "hlr_imsi": "502195596991228",
-    "file_name": "hlrout_2025-07-02_17-30.txt"
+    "file_name": "hlrout_2025-07-02_10-00.txt"
   },
   {
     "operation": "SIMREG",
-    "bss_msisdn": "601153710298",
-    "bss_imsi": "502195538875418",
+    "bss_msisdn": "60105350199",
+    "bss_imsi": "502195539173480",
     "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
     "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_06-00.txt"
+    "file_name": "hlrout_2025-07-02_10-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60175066630",
-    "bss_imsi": "502195539239020",
-    "hlr_msisdn": "60105039186",
-    "hlr_imsi": "502195539239020",
-    "file_name": "hlrout_2025-07-04_13-00.txt"
+    "bss_msisdn": "60166485284",
+    "bss_imsi": "502195538725553",
+    "hlr_msisdn": "60105251625",
+    "hlr_imsi": "502195538725553",
+    "file_name": "hlrout_2025-07-02_10-00.txt"
+  },
+  {
+    "operation": "SIMSWAP",
+    "bss_msisdn": "601115491418",
+    "bss_imsi": "502195539533864",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_10-15.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60105040895",
+    "bss_imsi": "502195538126339",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_10-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60146420957",
+    "bss_imsi": "502195539161651",
+    "hlr_msisdn": "60105033166",
+    "hlr_imsi": "502195539161651",
+    "file_name": "hlrout_2025-07-02_10-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60104680957",
+    "bss_imsi": "502195539161650",
+    "hlr_msisdn": "60105033157",
+    "hlr_imsi": "502195539161650",
+    "file_name": "hlrout_2025-07-02_10-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60143600957",
+    "bss_imsi": "502195539161649",
+    "hlr_msisdn": "60105033116",
+    "hlr_imsi": "502195539161649",
+    "file_name": "hlrout_2025-07-02_10-30.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153960554",
+    "bss_imsi": "502195539145978",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_10-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60176098310",
+    "bss_imsi": "502195539173182",
+    "hlr_msisdn": "60105030989",
+    "hlr_imsi": "502195539173182",
+    "file_name": "hlrout_2025-07-02_11-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60147265280",
+    "bss_imsi": "502195539173181",
+    "hlr_msisdn": "60105031096",
+    "hlr_imsi": "502195539173181",
+    "file_name": "hlrout_2025-07-02_11-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60142698850",
+    "bss_imsi": "502195539173180",
+    "hlr_msisdn": "60105031150",
+    "hlr_imsi": "502195539173180",
+    "file_name": "hlrout_2025-07-02_11-45.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60107918302",
+    "bss_imsi": "502195538913317",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_12-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601131710930",
+    "bss_imsi": "502195536424891",
+    "hlr_msisdn": "60105149509",
+    "hlr_imsi": "502195536424891",
+    "file_name": "hlrout_2025-07-02_12-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601111331568",
+    "bss_imsi": "502195538992481",
+    "hlr_msisdn": "60105043754",
+    "hlr_imsi": "502195538992481",
+    "file_name": "hlrout_2025-07-02_13-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601161795504",
+    "bss_imsi": "502195538992440",
+    "hlr_msisdn": "60105046264",
+    "hlr_imsi": "502195538992440",
+    "file_name": "hlrout_2025-07-02_13-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1264,6 +632,22 @@
     "file_name": "hlrout_2025-07-02_13-00.txt"
   },
   {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60143295681",
+    "bss_imsi": "502195538753706",
+    "hlr_msisdn": "60108075681",
+    "hlr_imsi": "502195538753706",
+    "file_name": "hlrout_2025-07-02_13-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601133422270",
+    "bss_imsi": "502195596952648",
+    "hlr_msisdn": "601153947388",
+    "hlr_imsi": "502195596952648",
+    "file_name": "hlrout_2025-07-02_13-30.txt"
+  },
+  {
     "operation": "SIMREG",
     "bss_msisdn": "601153994712",
     "bss_imsi": "502195596999588",
@@ -1272,12 +656,20 @@
     "file_name": "hlrout_2025-07-02_14-30.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601136258586",
-    "bss_imsi": "502195538927346",
-    "hlr_msisdn": "60105011744",
-    "hlr_imsi": "502195538927346",
-    "file_name": "hlrout_2025-07-03_12-30.txt"
+    "operation": "SIMREG",
+    "bss_msisdn": "601135735292",
+    "bss_imsi": "502195538998121",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_14-30.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60108025722",
+    "bss_imsi": "502195538940875",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_15-30.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1297,11 +689,43 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60173987252",
-    "bss_imsi": "502195539239031",
-    "hlr_msisdn": "60105020559",
-    "hlr_imsi": "502195539239031",
-    "file_name": "hlrout_2025-07-03_08-45.txt"
+    "bss_msisdn": "60108940312",
+    "bss_imsi": "502195538437139",
+    "hlr_msisdn": "60105051256",
+    "hlr_imsi": "502195538437139",
+    "file_name": "hlrout_2025-07-02_16-15.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153396369",
+    "bss_imsi": "502195561110711",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_17-00.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153396370",
+    "bss_imsi": "502195561110712",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_17-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60176207643",
+    "bss_imsi": "502195539136438",
+    "hlr_msisdn": "60105051467",
+    "hlr_imsi": "502195539136438",
+    "file_name": "hlrout_2025-07-02_17-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60173481148",
+    "bss_imsi": "502195539136436",
+    "hlr_msisdn": "60105051599",
+    "hlr_imsi": "502195539136436",
+    "file_name": "hlrout_2025-07-02_17-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1313,27 +737,51 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60109536785",
-    "bss_imsi": "502195536754482",
-    "hlr_msisdn": "60105365384",
-    "hlr_imsi": "502195536754482",
-    "file_name": "hlrout_2025-07-03_09-45.txt"
+    "bss_msisdn": "601136010683",
+    "bss_imsi": "502195539240768",
+    "hlr_msisdn": "60105052145",
+    "hlr_imsi": "502195539240768",
+    "file_name": "hlrout_2025-07-02_17-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60176528460",
-    "bss_imsi": "502195539157349",
-    "hlr_msisdn": "60105016719",
-    "hlr_imsi": "502195539157349",
-    "file_name": "hlrout_2025-07-02_22-15.txt"
+    "bss_msisdn": "60173553254",
+    "bss_imsi": "502195539136437",
+    "hlr_msisdn": "60105051487",
+    "hlr_imsi": "502195539136437",
+    "file_name": "hlrout_2025-07-02_17-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172846663",
-    "bss_imsi": "502195539239019",
-    "hlr_msisdn": "60105039202",
-    "hlr_imsi": "502195539239019",
-    "file_name": "hlrout_2025-07-04_13-00.txt"
+    "bss_msisdn": "60166710305",
+    "bss_imsi": "502195596991228",
+    "hlr_msisdn": "601153986186",
+    "hlr_imsi": "502195596991228",
+    "file_name": "hlrout_2025-07-02_17-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601136603066",
+    "bss_imsi": "502195539239775",
+    "hlr_msisdn": "60105052281",
+    "hlr_imsi": "502195539239775",
+    "file_name": "hlrout_2025-07-02_17-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601133331908",
+    "bss_imsi": "502195536496063",
+    "hlr_msisdn": "60108153741",
+    "hlr_imsi": "502195536496063",
+    "file_name": "hlrout_2025-07-02_18-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60143735397",
+    "bss_imsi": "502195538730231",
+    "hlr_msisdn": "601115016297",
+    "hlr_imsi": "502195538730231",
+    "file_name": "hlrout_2025-07-02_18-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1344,28 +792,28 @@
     "file_name": "hlrout_2025-07-02_18-00.txt"
   },
   {
-    "operation": "SIMREG",
-    "bss_msisdn": "60108110411",
-    "bss_imsi": "502195538958063",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_03-15.txt"
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60102262051",
+    "bss_imsi": "502195538922525",
+    "hlr_msisdn": "60105052474",
+    "hlr_imsi": "502195538922525",
+    "file_name": "hlrout_2025-07-02_18-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60126490393",
-    "bss_imsi": "502195539155980",
-    "hlr_msisdn": "60105048806",
-    "hlr_imsi": "502195539155980",
-    "file_name": "hlrout_2025-07-01_09-00.txt"
+    "bss_msisdn": "60146560401",
+    "bss_imsi": "502195538919791",
+    "hlr_msisdn": "60105052546",
+    "hlr_imsi": "502195538919791",
+    "file_name": "hlrout_2025-07-02_18-00.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601169548593",
-    "bss_imsi": "502195538992480",
-    "hlr_msisdn": "60105033750",
-    "hlr_imsi": "502195538992480",
-    "file_name": "hlrout_2025-07-03_09-15.txt"
+    "bss_msisdn": "60178186636",
+    "bss_imsi": "502195539170230",
+    "hlr_msisdn": "60105010860",
+    "hlr_imsi": "502195539170230",
+    "file_name": "hlrout_2025-07-02_19-15.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1374,6 +822,46 @@
     "hlr_msisdn": "60105010878",
     "hlr_imsi": "502195539170251",
     "file_name": "hlrout_2025-07-02_19-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60102204893",
+    "bss_imsi": "502195596890077",
+    "hlr_msisdn": "601135884947",
+    "hlr_imsi": "502195596890077",
+    "file_name": "hlrout_2025-07-02_19-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60178766046",
+    "bss_imsi": "502195596995551",
+    "hlr_msisdn": "601153990571",
+    "hlr_imsi": "502195596995551",
+    "file_name": "hlrout_2025-07-02_20-00.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153032882",
+    "bss_imsi": "502195538434561",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_20-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60176767683",
+    "bss_imsi": "502195538867344",
+    "hlr_msisdn": "60105014180",
+    "hlr_imsi": "502195538867344",
+    "file_name": "hlrout_2025-07-02_20-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601151384452",
+    "bss_imsi": "502195538701216",
+    "hlr_msisdn": "601115480158",
+    "hlr_imsi": "502195538701216",
+    "file_name": "hlrout_2025-07-02_20-30.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1393,6 +881,22 @@
   },
   {
     "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60122901083",
+    "bss_imsi": "502195538439281",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-02_21-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60147605778",
+    "bss_imsi": "502195539157350",
+    "hlr_msisdn": "60105016790",
+    "hlr_imsi": "502195539157350",
+    "file_name": "hlrout_2025-07-02_22-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
     "bss_msisdn": "60173193089",
     "bss_imsi": "502195539157351",
     "hlr_msisdn": "60105017497",
@@ -1400,12 +904,20 @@
     "file_name": "hlrout_2025-07-02_22-15.txt"
   },
   {
-    "operation": "SIMREG",
-    "bss_msisdn": "60105015673",
-    "bss_imsi": "502195539170275",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-01_10-15.txt"
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60176528460",
+    "bss_imsi": "502195539157349",
+    "hlr_msisdn": "60105016719",
+    "hlr_imsi": "502195539157349",
+    "file_name": "hlrout_2025-07-02_22-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60173987252",
+    "bss_imsi": "502195539239031",
+    "hlr_msisdn": "60105020559",
+    "hlr_imsi": "502195539239031",
+    "file_name": "hlrout_2025-07-03_08-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1425,11 +937,171 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60124671012",
-    "bss_imsi": "502195538587182",
-    "hlr_msisdn": "60107972290",
-    "hlr_imsi": "502195538587182",
-    "file_name": "hlrout_2025-07-01_09-00.txt"
+    "bss_msisdn": "60174255562",
+    "bss_imsi": "502195539239028",
+    "hlr_msisdn": "60105022501",
+    "hlr_imsi": "502195539239028",
+    "file_name": "hlrout_2025-07-03_09-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601169548593",
+    "bss_imsi": "502195538992480",
+    "hlr_msisdn": "60105033750",
+    "hlr_imsi": "502195538992480",
+    "file_name": "hlrout_2025-07-03_09-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60165875841",
+    "bss_imsi": "502195538161546",
+    "hlr_msisdn": "60105034864",
+    "hlr_imsi": "502195538161546",
+    "file_name": "hlrout_2025-07-03_09-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60109536785",
+    "bss_imsi": "502195536754482",
+    "hlr_msisdn": "60105365384",
+    "hlr_imsi": "502195536754482",
+    "file_name": "hlrout_2025-07-03_09-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60165875845",
+    "bss_imsi": "502195538660480",
+    "hlr_msisdn": "60105035465",
+    "hlr_imsi": "502195538660480",
+    "file_name": "hlrout_2025-07-03_10-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60177056658",
+    "bss_imsi": "502195539239008",
+    "hlr_msisdn": "60105034915",
+    "hlr_imsi": "502195539239008",
+    "file_name": "hlrout_2025-07-03_11-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60173389448",
+    "bss_imsi": "502195539239010",
+    "hlr_msisdn": "60105034957",
+    "hlr_imsi": "502195539239010",
+    "file_name": "hlrout_2025-07-03_11-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60174266658",
+    "bss_imsi": "502195539239009",
+    "hlr_msisdn": "60105034938",
+    "hlr_imsi": "502195539239009",
+    "file_name": "hlrout_2025-07-03_11-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601159063800",
+    "bss_imsi": "502195539030889",
+    "hlr_msisdn": "60105037903",
+    "hlr_imsi": "502195539030889",
+    "file_name": "hlrout_2025-07-03_11-00.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601115190493",
+    "bss_imsi": "502195539105989",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_11-45.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60105470481",
+    "bss_imsi": "502195538453170",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_12-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601136258586",
+    "bss_imsi": "502195538927346",
+    "hlr_msisdn": "60105011744",
+    "hlr_imsi": "502195538927346",
+    "file_name": "hlrout_2025-07-03_12-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60168095642",
+    "bss_imsi": "502195539105019",
+    "hlr_msisdn": "60105051315",
+    "hlr_imsi": "502195539105019",
+    "file_name": "hlrout_2025-07-03_12-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60173181872",
+    "bss_imsi": "502195538197688",
+    "hlr_msisdn": "60105038967",
+    "hlr_imsi": "502195538197688",
+    "file_name": "hlrout_2025-07-03_12-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601126104533",
+    "bss_imsi": "502195539113126",
+    "hlr_msisdn": "60105052416",
+    "hlr_imsi": "502195539113126",
+    "file_name": "hlrout_2025-07-03_14-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60143883474",
+    "bss_imsi": "502195538431786",
+    "hlr_msisdn": "60105039465",
+    "hlr_imsi": "502195538431786",
+    "file_name": "hlrout_2025-07-03_14-30.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153210351",
+    "bss_imsi": "502195538597589",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_14-30.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60107986763",
+    "bss_imsi": "502195538544887",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_14-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60104595858",
+    "bss_imsi": "502195538665651",
+    "hlr_msisdn": "60105427470",
+    "hlr_imsi": "502195538665651",
+    "file_name": "hlrout_2025-07-03_15-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60139891117",
+    "bss_imsi": "502195538665649",
+    "hlr_msisdn": "60108061577",
+    "hlr_imsi": "502195538665649",
+    "file_name": "hlrout_2025-07-03_15-15.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153750257",
+    "bss_imsi": "502195538936806",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_15-15.txt"
   },
   {
     "operation": "SIMREG",
@@ -1441,27 +1113,27 @@
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60142698850",
-    "bss_imsi": "502195539173180",
-    "hlr_msisdn": "60105031150",
-    "hlr_imsi": "502195539173180",
-    "file_name": "hlrout_2025-07-02_11-45.txt"
+    "bss_msisdn": "60143020189",
+    "bss_imsi": "502195539238302",
+    "hlr_msisdn": "60105052742",
+    "hlr_imsi": "502195539238302",
+    "file_name": "hlrout_2025-07-03_15-15.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60143600957",
-    "bss_imsi": "502195539161649",
-    "hlr_msisdn": "60105033116",
-    "hlr_imsi": "502195539161649",
-    "file_name": "hlrout_2025-07-02_10-30.txt"
+    "bss_msisdn": "60106684172",
+    "bss_imsi": "502195537977571",
+    "hlr_msisdn": "60105052747",
+    "hlr_imsi": "502195537977571",
+    "file_name": "hlrout_2025-07-03_15-45.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601133422270",
-    "bss_imsi": "502195596952648",
-    "hlr_msisdn": "601153947388",
-    "hlr_imsi": "502195596952648",
-    "file_name": "hlrout_2025-07-02_13-30.txt"
+    "operation": "SIMSWAP",
+    "bss_msisdn": "60145874698",
+    "bss_imsi": "502195596968975",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_16-30.txt"
   },
   {
     "operation": "CHANGEMSISDN",
@@ -1472,115 +1144,35 @@
     "file_name": "hlrout_2025-07-03_17-00.txt"
   },
   {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60104605137",
-    "bss_imsi": "502195539161748",
-    "hlr_msisdn": "60105022550",
-    "hlr_imsi": "502195539161748",
-    "file_name": "hlrout_2025-07-02_08-45.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "601153396369",
-    "bss_imsi": "502195561110711",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_17-00.txt"
+    "operation": "SIMSWAP",
+    "bss_msisdn": "60143020189",
+    "bss_imsi": "502195539238295",
+    "hlr_msisdn": "60105052742",
+    "hlr_imsi": "502195539238295",
+    "file_name": "hlrout_2025-07-03_17-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601126104533",
-    "bss_imsi": "502195539113126",
-    "hlr_msisdn": "60105052416",
-    "hlr_imsi": "502195539113126",
-    "file_name": "hlrout_2025-07-03_14-30.txt"
-  },
-  {
-    "operation": "SIMREG",
-    "bss_msisdn": "60105350199",
-    "bss_imsi": "502195539173480",
-    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
-    "hlr_imsi": "HLR IMSI NO DATA FOUND",
-    "file_name": "hlrout_2025-07-02_10-00.txt"
+    "bss_msisdn": "60164499021",
+    "bss_imsi": "502195538696561",
+    "hlr_msisdn": "60107739021",
+    "hlr_imsi": "502195538696561",
+    "file_name": "hlrout_2025-07-03_18-45.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60146420957",
-    "bss_imsi": "502195539161651",
-    "hlr_msisdn": "60105033166",
-    "hlr_imsi": "502195539161651",
-    "file_name": "hlrout_2025-07-02_10-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "601159014513",
-    "bss_imsi": "502195538921948",
-    "hlr_msisdn": "60105049706",
-    "hlr_imsi": "502195538921948",
-    "file_name": "hlrout_2025-07-01_18-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60175711715",
-    "bss_imsi": "502195538868711",
-    "hlr_msisdn": "60105012193",
-    "hlr_imsi": "502195538868711",
-    "file_name": "hlrout_2025-07-03_20-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60172855537",
-    "bss_imsi": "502195539016197",
-    "hlr_msisdn": "60105052985",
-    "hlr_imsi": "502195539016197",
+    "bss_msisdn": "60177001207",
+    "bss_imsi": "502195538886829",
+    "hlr_msisdn": "60105053102",
+    "hlr_imsi": "502195538886829",
     "file_name": "hlrout_2025-07-03_19-30.txt"
   },
   {
     "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60165220910",
-    "bss_imsi": "502195538336409",
-    "hlr_msisdn": "60105012968",
-    "hlr_imsi": "502195538336409",
-    "file_name": "hlrout_2025-07-03_20-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60175000148",
-    "bss_imsi": "502195538868720",
-    "hlr_msisdn": "60105053092",
-    "hlr_imsi": "502195538868720",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60174227743",
-    "bss_imsi": "502195538868718",
-    "hlr_msisdn": "60105053083",
-    "hlr_imsi": "502195538868718",
-    "file_name": "hlrout_2025-07-03_19-30.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60169356253",
-    "bss_imsi": "502195539161675",
-    "hlr_msisdn": "60105026287",
-    "hlr_imsi": "502195539161675",
-    "file_name": "hlrout_2025-07-03_22-00.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60109359253",
-    "bss_imsi": "502195539161670",
-    "hlr_msisdn": "60105025344",
-    "hlr_imsi": "502195539161670",
-    "file_name": "hlrout_2025-07-03_21-15.txt"
-  },
-  {
-    "operation": "CHANGEMSISDN",
-    "bss_msisdn": "60174772248",
-    "bss_imsi": "502195538868716",
-    "hlr_msisdn": "60105053074",
-    "hlr_imsi": "502195538868716",
+    "bss_msisdn": "60142002086",
+    "bss_imsi": "502195538868725",
+    "hlr_msisdn": "60105053128",
+    "hlr_imsi": "502195538868725",
     "file_name": "hlrout_2025-07-03_19-30.txt"
   },
   {
@@ -1593,10 +1185,418 @@
   },
   {
     "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172103220",
+    "bss_imsi": "502195539016193",
+    "hlr_msisdn": "60105052995",
+    "hlr_imsi": "502195539016193",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172855537",
+    "bss_imsi": "502195539016197",
+    "hlr_msisdn": "60105052985",
+    "hlr_imsi": "502195539016197",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172230612",
+    "bss_imsi": "502195539016195",
+    "hlr_msisdn": "60105052994",
+    "hlr_imsi": "502195539016195",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60173777064",
+    "bss_imsi": "502195539016192",
+    "hlr_msisdn": "60105052979",
+    "hlr_imsi": "502195539016192",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60173532224",
+    "bss_imsi": "502195539170233",
+    "hlr_msisdn": "60105053024",
+    "hlr_imsi": "502195539170233",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172700778",
+    "bss_imsi": "502195538868717",
+    "hlr_msisdn": "60105053076",
+    "hlr_imsi": "502195538868717",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60174227743",
+    "bss_imsi": "502195538868718",
+    "hlr_msisdn": "60105053083",
+    "hlr_imsi": "502195538868718",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60175000148",
+    "bss_imsi": "502195538868720",
+    "hlr_msisdn": "60105053092",
+    "hlr_imsi": "502195538868720",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60174000173",
+    "bss_imsi": "502195538886830",
+    "hlr_msisdn": "60105053095",
+    "hlr_imsi": "502195538886830",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60173222695",
+    "bss_imsi": "502195539170234",
+    "hlr_msisdn": "60105053039",
+    "hlr_imsi": "502195539170234",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60174772248",
+    "bss_imsi": "502195538868716",
+    "hlr_msisdn": "60105053074",
+    "hlr_imsi": "502195538868716",
+    "file_name": "hlrout_2025-07-03_19-30.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60108001856",
+    "bss_imsi": "502195537714386",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_20-00.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601118939640",
+    "bss_imsi": "502195538181037",
+    "hlr_msisdn": "60107709640",
+    "hlr_imsi": "502195538181037",
+    "file_name": "hlrout_2025-07-03_20-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60165220910",
+    "bss_imsi": "502195538336409",
+    "hlr_msisdn": "60105012968",
+    "hlr_imsi": "502195538336409",
+    "file_name": "hlrout_2025-07-03_20-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601136261046",
+    "bss_imsi": "502195538544128",
+    "hlr_msisdn": "601135531046",
+    "hlr_imsi": "502195538544128",
+    "file_name": "hlrout_2025-07-03_20-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60175711715",
+    "bss_imsi": "502195538868711",
+    "hlr_msisdn": "60105012193",
+    "hlr_imsi": "502195538868711",
+    "file_name": "hlrout_2025-07-03_20-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60175220032",
+    "bss_imsi": "502195539170149",
+    "hlr_msisdn": "60105012314",
+    "hlr_imsi": "502195539170149",
+    "file_name": "hlrout_2025-07-03_20-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172311302",
+    "bss_imsi": "502195539170148",
+    "hlr_msisdn": "60105012139",
+    "hlr_imsi": "502195539170148",
+    "file_name": "hlrout_2025-07-03_20-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
     "bss_msisdn": "601151352143",
     "bss_imsi": "502195597158607",
     "hlr_msisdn": "601115003227",
     "hlr_imsi": "502195597158607",
     "file_name": "hlrout_2025-07-03_21-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60164057298",
+    "bss_imsi": "502195539104385",
+    "hlr_msisdn": "60105015852",
+    "hlr_imsi": "502195539104385",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60146377038",
+    "bss_imsi": "502195539136678",
+    "hlr_msisdn": "60105015727",
+    "hlr_imsi": "502195539136678",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601126855881",
+    "bss_imsi": "502195539254842",
+    "hlr_msisdn": "60105015647",
+    "hlr_imsi": "502195539254842",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60169548635",
+    "bss_imsi": "502195539161669",
+    "hlr_msisdn": "60105025031",
+    "hlr_imsi": "502195539161669",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60107634236",
+    "bss_imsi": "502195539161671",
+    "hlr_msisdn": "60105025387",
+    "hlr_imsi": "502195539161671",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60162049256",
+    "bss_imsi": "502195539161673",
+    "hlr_msisdn": "60105025409",
+    "hlr_imsi": "502195539161673",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60109747239",
+    "bss_imsi": "502195539161672",
+    "hlr_msisdn": "60105025390",
+    "hlr_imsi": "502195539161672",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60143859362",
+    "bss_imsi": "502195539161674",
+    "hlr_msisdn": "60105026206",
+    "hlr_imsi": "502195539161674",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60109359253",
+    "bss_imsi": "502195539161670",
+    "hlr_msisdn": "60105025344",
+    "hlr_imsi": "502195539161670",
+    "file_name": "hlrout_2025-07-03_21-15.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60105124074",
+    "bss_imsi": "502195539253797",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_22-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60164265858",
+    "bss_imsi": "502195539118059",
+    "hlr_msisdn": "60105018521",
+    "hlr_imsi": "502195539118059",
+    "file_name": "hlrout_2025-07-03_22-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60107627126",
+    "bss_imsi": "502195539161676",
+    "hlr_msisdn": "60105026292",
+    "hlr_imsi": "502195539161676",
+    "file_name": "hlrout_2025-07-03_22-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60169356253",
+    "bss_imsi": "502195539161675",
+    "hlr_msisdn": "60105026287",
+    "hlr_imsi": "502195539161675",
+    "file_name": "hlrout_2025-07-03_22-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60146457236",
+    "bss_imsi": "502195539161648",
+    "hlr_msisdn": "60105026316",
+    "hlr_imsi": "502195539161648",
+    "file_name": "hlrout_2025-07-03_22-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60124663387",
+    "bss_imsi": "502195539082756",
+    "hlr_msisdn": "60105016747",
+    "hlr_imsi": "502195539082756",
+    "file_name": "hlrout_2025-07-03_22-15.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601126373738",
+    "bss_imsi": "502195538949904",
+    "hlr_msisdn": "60105034917",
+    "hlr_imsi": "502195538949904",
+    "file_name": "hlrout_2025-07-03_22-15.txt"
+  },
+  {
+    "operation": "SIMSWAP",
+    "bss_msisdn": "60123998747",
+    "bss_imsi": "502195539047107",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-03_22-45.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601153552005",
+    "bss_imsi": "502195538720937",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-04_01-30.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "601115098698",
+    "bss_imsi": "502195538563118",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-04_03-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60109019841",
+    "bss_imsi": "502195539171466",
+    "hlr_msisdn": "60105024636",
+    "hlr_imsi": "502195539171466",
+    "file_name": "hlrout_2025-07-04_08-45.txt"
+  },
+  {
+    "operation": "SIMREG",
+    "bss_msisdn": "60108168088",
+    "bss_imsi": "502195538755217",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-04_09-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60175787627",
+    "bss_imsi": "502195538546867",
+    "hlr_msisdn": "601115076790",
+    "hlr_imsi": "502195538546867",
+    "file_name": "hlrout_2025-07-04_09-30.txt"
+  },
+  {
+    "operation": "SIMSWAP",
+    "bss_msisdn": "601155559625",
+    "bss_imsi": "502195539537692",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-04_10-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60147560105",
+    "bss_imsi": "502195538697494",
+    "hlr_msisdn": "601153716678",
+    "hlr_imsi": "502195538697494",
+    "file_name": "hlrout_2025-07-04_11-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601116459635",
+    "bss_imsi": "502195538886572",
+    "hlr_msisdn": "60105039028",
+    "hlr_imsi": "502195538886572",
+    "file_name": "hlrout_2025-07-04_11-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60105324547",
+    "bss_imsi": "502195539041543",
+    "hlr_msisdn": "60105036990",
+    "hlr_imsi": "502195539041543",
+    "file_name": "hlrout_2025-07-04_11-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601133088766",
+    "bss_imsi": "502195538922513",
+    "hlr_msisdn": "60105052316",
+    "hlr_imsi": "502195538922513",
+    "file_name": "hlrout_2025-07-04_11-15.txt"
+  },
+  {
+    "operation": "SIMSWAP",
+    "bss_msisdn": "60108074947",
+    "bss_imsi": "502195539517177",
+    "hlr_msisdn": "HLR MSISDN NO DATA FOUND",
+    "hlr_imsi": "HLR IMSI NO DATA FOUND",
+    "file_name": "hlrout_2025-07-04_12-30.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60165756765",
+    "bss_imsi": "502195537465300",
+    "hlr_msisdn": "60105039279",
+    "hlr_imsi": "502195537465300",
+    "file_name": "hlrout_2025-07-04_12-45.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601164850391",
+    "bss_imsi": "502195536775204",
+    "hlr_msisdn": "601153650391",
+    "hlr_imsi": "502195536775204",
+    "file_name": "hlrout_2025-07-04_13-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60172846663",
+    "bss_imsi": "502195539239019",
+    "hlr_msisdn": "60105039202",
+    "hlr_imsi": "502195539239019",
+    "file_name": "hlrout_2025-07-04_13-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "60175066630",
+    "bss_imsi": "502195539239020",
+    "hlr_msisdn": "60105039186",
+    "hlr_imsi": "502195539239020",
+    "file_name": "hlrout_2025-07-04_13-00.txt"
+  },
+  {
+    "operation": "CHANGEMSISDN",
+    "bss_msisdn": "601116491025",
+    "bss_imsi": "502195539324303",
+    "hlr_msisdn": "60105039058",
+    "hlr_imsi": "502195539324303",
+    "file_name": "hlrout_2025-07-04_13-00.txt"
   }
 ]
